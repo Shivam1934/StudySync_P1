@@ -1,2 +1,3 @@
 # StudySync_P1
 Website using basic html and css.
+Author - Shivam Patel
